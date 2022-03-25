@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, Hi , I'm Hafizur Rahman
+#### I am Frontend Developer
+![I am Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**hafizur-02/hafizur-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hafizur Rahman from Satkhira , Bangladesh. I'm A Frontend Developer. I have been studying web development for the last one years. I'm creative web designer . I can Design any kind of web application . and I'm very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration
 
-Here are some ideas to get you started:
+Skills:  / REACT / JS / HTML / CSS / Bootstrap / Tailwind 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My Own Projects 
+- 🌱 I’m currently learning HTML/ CSS / JS / React / Bootstrap / Tailwind 
+- 💬 Ask me about Frontend Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hafizur-02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hafizur-rahman-8155a3226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/?_rdc=1&_rdr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](file:///C:/Users/LENOVO/OneDrive/Desktop/Personal%20Protfolio/index.html)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizur-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizur-02&how_icons=true&theme=radical)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hafizur-02)  
+
+![GitHub metrics](https://metrics.lecoq.io/hafizur-02)  
+
+![Profile views](https://gpvc.arturio.dev/hafizur-02)  
