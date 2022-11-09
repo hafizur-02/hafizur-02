@@ -1,16 +1,13 @@
-
-
-  
-  
-  
 <h1> Hi there 👋, I'm Hafizur Rahman <h1/>
-<h3>A passionate frontend developer from Bangladesh</h3>  
+<h3>Front-end Developer</h3>  
 <p>Hi, I'm a Frontend Developer. I have been learning web development for 2+ years. I'm very passionate and dedicated to my work. I learn new technologe every single day to grow my skills and i enjoy every step of the development process</p>
 
 - 📫 How to reach me **hafizur.ra02@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hafizur-02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hafizur--rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/HafizurRahmanUzzul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hafizur28833302) 
   
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
