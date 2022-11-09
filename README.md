@@ -1,18 +1,12 @@
 
 
-<h1>Hi 👋, I'm Hafizur Rahman</h1>
-<h4>A passionate frontend developer from Bangladesh</h3>
-
-- 💬 Ask me about **Front-end Related Project**
+<h4></h3>
+### Hi there 👋, I'm Hafizur Rahman
+#### A passionate frontend developer from Bangladesh
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p>Hi, I'm A Frontend Developer.I'm very passionate and dedicated to my work. I have been working with web development 2+ years. I'm creative web designer . I can Design any kind of web application . and  I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration</p>
 
 - 📫 How to reach me **hafizur.ra02@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hafizur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizur rahman" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
