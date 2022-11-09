@@ -1,6 +1,10 @@
-<h1> Hi there 👋, I'm Hafizur Rahman <h1/>
-<h3>A passionate frontend developer from Bangladesh</h3>
 
+
+  
+  
+  
+<h1> Hi there 👋, I'm Hafizur Rahman <h1/>
+<h3>A passionate frontend developer from Bangladesh</h3>  
 <p>Hi, I'm a Frontend Developer. I have been learning web development for 2+ years. I'm very passionate and dedicated to my work. I learn new technologe every single day to grow my skills and i enjoy every step of the development process</p>
 
 - 📫 How to reach me **hafizur.ra02@gmail.com**
