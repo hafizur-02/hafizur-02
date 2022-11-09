@@ -28,14 +28,9 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Buy Me a Coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizur-02&show_icons=true&locale=en&layout=compact" alt="hafizur-02" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hafizur-02&show_icons=true&locale=en" alt="hafizur-02" /></p>
-
- 
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hafizur-02)  
