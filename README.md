@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Hafizur Rahman</h1>
-<h6>A passionate frontend developer from Bangladesh</h3>
-
+<h4>A passionate frontend developer from Bangladesh</h3>
 
 
 - 💬 Ask me about **Front-end Related Project**
