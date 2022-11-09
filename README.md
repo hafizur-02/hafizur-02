@@ -1,11 +1,10 @@
 ### Hi there 👋,  I'm Hafizur Rahman
 #### Front-end Developer
-![Front-end Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I'm a Frontend Developer. I have been learning web development for 2+ years. I'm very passionate and dedicated to my work. I learn new technology every single day to grow my skills and I enjoy every step of the development process
 
 
-
+<h3 align="left">Contact With Me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hafizur-02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hafizur--rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/HafizurRahmanUzzul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hafizur28833302) 
 
 <h3 align="left">Languages and Tools:</h3>
