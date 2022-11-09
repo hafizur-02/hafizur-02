@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Hafizur Rahman</h1>
-<h4>A passionate frontend developer from Bangladesh</h3>
-<p>Hi, I'm Hafizur Rahman from Satkhira , Bangladesh. I'm A Frontend Developer. I have been studying web development for the last one years. I'm creative web designer . I can Design any kind of web application . and I'm very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration</p>
+<h4 background-color:"rgba(110,118,129,0.4)">A passionate frontend developer from Bangladesh</h3>
+<p>Hi, I'm a Frontend Developer. I'm very passionate and dedicated to my work. I have been studying web development for the last one years.I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration</p>
 
 
-- 💬 Ask me about **Front-end Related Project**
+
 
 - 📫 How to reach me **hafizur.ra02@gmail.com**
 
