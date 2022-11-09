@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizur-02&show_icons=true&locale=en" alt="hafizur-02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizur-02&" alt="hafizur-02" /></p>
+![Profile views](https://gpvc.arturio.dev/hafizur-02)  
