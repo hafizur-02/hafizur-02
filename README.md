@@ -1,7 +1,7 @@
 <h1> Hi there 👋, I'm Hafizur Rahman <h1/>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
-<p>Hi, I'm A Frontend Developer.I'm very passionate and dedicated to my work. I have been working with web development 2+ years. I'm creative web designer . I can Design any kind of web application . and  I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration</p>
+<p>Hi, I'm a Frontend Developer. I have been learning web development for 2+ years. I'm very passionate and dedicated to my work. I learn new technologe every single day to grow my skills and i enjoy every step of the development process</p>
 
 - 📫 How to reach me **hafizur.ra02@gmail.com**
 
@@ -17,8 +17,6 @@
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizur-02&show_icons=true&locale=en&layout=compact" alt="hafizur-02" /></p>
