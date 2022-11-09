@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p style="margin-bottom:'1rem'"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizur-02&show_icons=true&locale=en&layout=compact" alt="hafizur-02" /></p>
+<p style="margin-bottom:'1px'"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizur-02&show_icons=true&locale=en&layout=compact" alt="hafizur-02" /></p>
 
 
 
