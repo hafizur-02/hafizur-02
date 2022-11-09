@@ -1,4 +1,3 @@
-<h1>Hi 👋, I'm Hafizur Rahman</h1>
 <h4>A passionate frontend developer from Bangladesh</h3>
 
 
