@@ -38,8 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizur-02&show_icons=true&locale=en" alt="hafizur-02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizur-02&" alt="hafizur-02" /></p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizur-02)](https://github.com/anuraghazra/github-readme-stats)
 
